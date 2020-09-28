@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MerdoqLogin</string>
+    <string name="userNamePlaceHolder">Username</string>
+    <string name="passwordPlaceHolder">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="help">Help ?</string>
+</resources>
